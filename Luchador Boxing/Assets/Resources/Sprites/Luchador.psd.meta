@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 7739b39a6a04b544989a3e5001a21abd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mask1
+    21300002: LuchadorMask2
+    21300004: LuchadorMask3
+    21300006: LuchadorMask4
+    21300008: LuchadorBody
+    21300010: LuchadorArm
+    21300012: LuchadorShorts
+    21300014: LuchadorLegR
+    21300016: LuchadorLegL
+    21300018: LuchadorFootL
+    21300020: LuchadorFootR
+    21300022: LuchadorFist
+    21300024: LuchadorCape
+    21300026: LuchadorMask5
+    21300028: LuchadoraMask6
+    21300030: LuchadorMask7
+    21300032: LuchadorMask8
+    21300034: HealthBar
+    21300036: Pause
+    21300038: HealthInside
+    21300040: HealthBarBottom
+    21300042: PlayButton
+    21300044: BackArrow
+    21300046: RestartButton
+    21300048: WhiteBox
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mask1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.50594234, y: 0.03132731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4c56e37da2c746a4bd2ca374b7d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorMask2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 282
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4940573, y: 0.03132731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc8a8db3a0227a41a2b63ab4a0f7b01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorMask3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 265
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.061342366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b182f645ff9d21942a84339bbcaf15d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorMask4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 265
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5144612, y: 0.05507609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e20c5f30b67b64eadba7b4237da0cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorBody
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 277
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c84b8d342729e4c8da0be0e37987d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorArm
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 280
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.0982666, y: 0.82963055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf9f27e7b4792a449e77466f8ab4cc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorShorts
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 270
+        width: 10
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9324849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4feb1a08ac0324a83945b7250f8fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorLegR
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 265
+        width: 2
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5209274, y: 0.94644165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89d335f8fd5c345b28f9c0cab15960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorLegL
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 265
+        width: 2
+        height: 3
+      alignment: 9
+      pivot: {x: 0.47907257, y: 0.9324849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba051c5c1929c47b2dfe1860a4c6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorFootL
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 260
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.65346146, y: 0.98829144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee018ccaa3ee84fbdd2f6ee101d0c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorFootR
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 260
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.33258566, y: 0.9603882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350b6e8e1983b644b2c95afd94078d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorFist
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 270
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.46909842, y: 0.91719055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe5de5ee0105d4db6c4c0e9db1feaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorCape
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 237
+        width: 23
+        height: 17
+      alignment: 9
+      pivot: {x: 0.38382772, y: 0.9622758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5c5721a47d374d9674546e9357501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorMask5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.01766459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d1410bd7ac244399676d6e7868617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadoraMask6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 248
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.50385636, y: 0.018673707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5825f2a2d1f6d042ab3663f1d0c7c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorMask7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.015985107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae466e9f7462d0b40a96a8ac9c1652f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuchadorMask8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 231
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.50084496, y: 0.022020467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec93970a543ed146bb24ffafbefa471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae3bd151cd1094d987e216673231d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 222
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82738dc2d5f4944b5068c6183126e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthInside
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 29
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fcd3945f3ef514db48f34120871062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 221
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87ceeaabbef6a4d93aa629eb2e81a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackArrow
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 211
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83866896a057e4e94cf1e9be568714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RestartButton
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 210
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6563a811ee5d6414d9cc6cced9c61307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteBox
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 222
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7c4c6b62df8643b1cdd204d455669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a0c5a6766479cd44bbb0d2cf0a90bc48
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
